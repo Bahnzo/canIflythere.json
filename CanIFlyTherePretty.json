@@ -44425,7 +44425,8 @@
       "status":"exists"
    },
    "L53":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CA70"
    },
    "L54":{
       "status":"exists"
