@@ -47963,7 +47963,8 @@
       "simIcao":"LY87"
    },
    "LY0B":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LYBO"
    },
    "LY0C":{
       "status":"renamed",
@@ -54039,7 +54040,8 @@
       "status":"exists"
    },
    "O48":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KLLR"
    },
    "O50":{
       "status":"missing"
@@ -58942,7 +58944,8 @@
       "status":"missing"
    },
    "SA0T":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"OEL"
    },
    "SA0U":{
       "status":"renamed",
@@ -59004,7 +59007,8 @@
       "simIcao":"SA44"
    },
    "SA1J":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"FRS"
    },
    "SA1K":{
       "status":"renamed",
