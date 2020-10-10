@@ -15,8 +15,7 @@
       "status":"missing"
    },
    "2E1":{
-      "status":"renamed",
-	  "simIcao":"25TS"
+      "status":"missing"
    },
    "1E2":{
       "status":"missing"
@@ -2454,8 +2453,7 @@
       "status":"exists"
    },
    "0V2":{
-      "status":"renamed",
-	  "simIcao":"KANK"
+      "status":"missing"
    },
    "0V3":{
       "status":"exists"
@@ -8760,8 +8758,7 @@
       "status":"exists"
    },
    "3FM":{
-      "status":"renamed",
-	  "simIcao":"KFFX"
+      "status":"missing"
    },
    "3FU":{
       "status":"exists"
@@ -10760,8 +10757,7 @@
       "status":"exists"
    },
    "48V":{
-      "status":"renamed",
-	  "simIcao":"KEIK"
+      "status":"missing"
    },
    "48VA":{
       "status":"exists"
@@ -17619,8 +17615,7 @@
       "status":"missing"
    },
    "7K4":{
-      "status":"renamed",
-	  "simIcao":"KJQD"
+      "status":"missing"
    },
    "7K5":{
       "status":"exists"
@@ -17668,8 +17663,7 @@
       "status":"exists"
    },
    "7L7":{
-      "status":"renamed",
-	  "simIcao":"MO30"
+      "status":"missing"
    },
    "7L8":{
       "status":"exists"
@@ -19802,8 +19796,7 @@
       "status":"missing"
    },
    "8OK7":{
-      "status":"renamed",
-	  "simIcao":"O53"
+      "status":"missing"
    },
    "8OL1":{
       "status":"exists"
@@ -21903,8 +21896,7 @@
       "status":"missing"
    },
    "A50":{
-      "status":"renamed",
-	  "simIcao":"CO49"
+      "status":"missing"
    },
    "A51":{
       "status":"exists"
@@ -22890,8 +22882,7 @@
       "status":"missing"
    },
    "C07":{
-      "status":"renamed",
-	  "simIcao":"10CO"
+      "status":"missing"
    },
    "C08":{
       "status":"exists"
@@ -22918,8 +22909,7 @@
       "status":"exists"
    },
    "C18":{
-      "status":"renamed",
-	  "simIcao":"LL40"
+      "status":"missing"
    },
    "C20":{
       "status":"exists"
@@ -24908,8 +24898,7 @@
       "status":"exists"
    },
    "CO68":{
-      "status":"renamed",
-	  "simIcao":"CO95"
+      "status":"missing"
    },
    "CO70":{
       "status":"missing"
