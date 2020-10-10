@@ -5980,7 +5980,8 @@
       "status":"missing"
    },
    "29G":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KPOV"
    },
    "29GA":{
       "status":"exists"
@@ -15579,7 +15580,8 @@
       "status":"exists"
    },
    "6I6":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"75OA"
    },
    "6IA5":{
       "status":"missing"
@@ -16779,7 +16781,8 @@
       "status":"exists"
    },
    "74D":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KMPG"
    },
    "74FD":{
       "status":"exists"
@@ -24794,7 +24797,8 @@
       "status":"exists"
    },
    "CNZ3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CYCK"
    },
    "CNZ4":{
       "status":"exists"
