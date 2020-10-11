@@ -14828,7 +14828,8 @@
       "status":"exists"
    },
    "64FL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KPON"
    },
    "64G":{
       "status":"exists"
@@ -36750,7 +36751,8 @@
       "status":"exists"
    },
    "ID76":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"C48"
    },
    "ID77":{
       "status":"exists"
@@ -58921,13 +58923,15 @@
       "simIcao":"SA13"
    },
    "SA0E":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SAEM"
    },
    "SA0F":{
       "status":"missing"
    },
    "SA0G":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"DOP"
    },
    "SA0H":{
       "status":"renamed",
@@ -58970,7 +58974,8 @@
       "simIcao":"SA27"
    },
    "SA0S":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TQL"
    },
    "SA0T":{
       "status":"renamed",
@@ -59155,7 +59160,7 @@
       "status":"missing"
    },
    "SAMQ":{
-      "status":"missing"
+      "status":"exists"
    },
    "SAMR":{
       "status":"exists"
@@ -62745,7 +62750,8 @@
       "status":"exists"
    },
    "SP0B":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SPEE"
    },
    "SP0C":{
       "status":"renamed",
@@ -71525,13 +71531,15 @@
       "status":"exists"
    },
    "Z00X":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SALV"
    },
    "Z01O":{
       "status":"exists"
    },
    "Z02C":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"MGI"
    },
    "Z04X":{
       "status":"renamed",
