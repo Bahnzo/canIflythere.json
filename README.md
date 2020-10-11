@@ -6,3 +6,7 @@ renaming fields in FSE wich have a different ICAO code in MSFS 2020. Below is an
 "00V":{"status":"renamed","simIcao":"KFLY"}
 
 Simply means that 00V is the field as found in FSE, and KFLY is the one in MSFS. 
+
+#### Observation
+Please make sure to update only airports that actually exist in that ***exact*** same spot. 
+Otherwise we don't think it's a good idea to do it, as either these missing airports may be created by people or eventually added by MSFS updates, potentially becoming an issue later.
