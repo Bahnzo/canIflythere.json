@@ -29968,7 +29968,8 @@
       "status":"exists"
    },
    "EIKL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EIKK"
    },
    "EIKN":{
       "status":"exists"
@@ -30337,7 +30338,8 @@
       "simIcao":"EP62"
    },
    "EP0E":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EPTM"
    },
    "EPBA":{
       "status":"exists"
@@ -34965,7 +34967,8 @@
       "status":"exists"
    },
    "GX04":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LG02"
    },
    "H000":{
       "status":"missing"
@@ -44761,7 +44764,8 @@
       "simIcao":"LB24"
    },
    "LB0P":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LBWB"
    },
    "LB0Q":{
       "status":"renamed",
@@ -47910,7 +47914,8 @@
       "status":"exists"
    },
    "LU0A":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LUBM"
    },
    "LUBL":{
       "status":"exists"
@@ -65970,7 +65975,8 @@
       "status":"exists"
    },
    "ULL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EG13"
    },
    "ULLI":{
       "status":"exists"
@@ -71605,7 +71611,8 @@
       "status":"exists"
    },
    "Z12D":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LHBD"
    },
    "Z12E":{
       "status":"missing"
