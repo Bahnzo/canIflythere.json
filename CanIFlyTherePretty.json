@@ -7646,7 +7646,8 @@
       "status":"exists"
    },
    "31M":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"3MS9"
    },
    "31MA":{
       "status":"exists"
@@ -8498,7 +8499,8 @@
       "status":"exists"
    },
    "3A1":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KCMD"
    },
    "3A2":{
       "status":"exists"
@@ -9390,7 +9392,8 @@
       "status":"exists"
    },
    "3O7":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KCVH"
    },
    "3O8":{
       "status":"exists"
@@ -44473,7 +44476,8 @@
       "status":"exists"
    },
    "L75":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KUXL"
    },
    "L77":{
       "status":"exists"
@@ -47968,7 +47972,8 @@
       "simIcao":"LY87"
    },
    "LY0B":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LYBO"
    },
    "LY0C":{
       "status":"renamed",
@@ -51977,7 +51982,8 @@
       "status":"exists"
    },
    "NBJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNBJ"
    },
    "NC00":{
       "status":"exists"
@@ -52538,7 +52544,8 @@
       "status":"exists"
    },
    "NFD":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNFD"
    },
    "NFFN":{
       "status":"exists"
@@ -53121,7 +53128,8 @@
       "status":"missing"
    },
    "NRQ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNRQ"
    },
    "NSFA":{
       "status":"exists"
@@ -54044,7 +54052,8 @@
       "status":"exists"
    },
    "O48":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KLLR"
    },
    "O50":{
       "status":"missing"
@@ -58947,7 +58956,8 @@
       "status":"missing"
    },
    "SA0T":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"OEL"
    },
    "SA0U":{
       "status":"renamed",
@@ -59009,7 +59019,8 @@
       "simIcao":"SA44"
    },
    "SA1J":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"FRS"
    },
    "SA1K":{
       "status":"renamed",
