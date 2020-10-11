@@ -1932,7 +1932,8 @@
       "status":"exists"
    },
    "0MT0":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"RC0"
    },
    "0MT1":{
       "status":"exists"
@@ -21959,7 +21960,8 @@
       "status":"exists"
    },
    "ABO":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJAB"
    },
    "AGGA":{
       "status":"exists"
@@ -25157,7 +25159,8 @@
       "status":"exists"
    },
    "CPX":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJCP"
    },
    "CPX3":{
       "status":"exists"
@@ -60072,7 +60075,8 @@
       "simIcao":"SNLY"
    },
    "SBI2":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SSYO"
    },
    "SBIC":{
       "status":"exists"
@@ -60786,7 +60790,7 @@
       "status":"exists"
    },
    "SCOS":{
-      "status":"missing"
+      "status":"exists"
    },
    "SCOT":{
       "status":"exists"
@@ -63975,7 +63979,8 @@
       "status":"missing"
    },
    "SWUY":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SBUY"
    },
    "SWUZ":{
       "status":"exists"
@@ -64747,7 +64752,8 @@
       "status":"exists"
    },
    "TJNR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"TJRV"
    },
    "TJPS":{
       "status":"exists"
