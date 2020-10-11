@@ -2711,7 +2711,8 @@
       "status":"exists"
    },
    "11J":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KBIJ"
    },
    "11K":{
       "status":"exists"
@@ -4460,7 +4461,8 @@
       "status":"exists"
    },
    "1N9":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KJVU"
    },
    "1NA0":{
       "status":"exists"
@@ -7334,7 +7336,8 @@
       "status":"exists"
    },
    "2V8":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"1CO5"
    },
    "2VA0":{
       "status":"exists"
@@ -9977,7 +9980,8 @@
       "status":"exists"
    },
    "40N":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KMQS"
    },
    "40NE":{
       "status":"exists"
@@ -12719,7 +12723,8 @@
       "status":"exists"
    },
    "55J":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFHB"
    },
    "55K":{
       "status":"exists"
@@ -13787,7 +13792,8 @@
       "status":"exists"
    },
    "5N3":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"NY55"
    },
    "5N4":{
       "status":"exists"
@@ -20902,7 +20908,8 @@
       "status":"exists"
    },
    "9A1":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KCVC"
    },
    "9A2":{
       "status":"missing"
@@ -51691,7 +51698,8 @@
       "status":"exists"
    },
    "N67":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KLOM"
    },
    "N68":{
       "status":"exists"
@@ -51727,7 +51735,7 @@
       "status":"exists"
    },
    "N82":{
-      "status":"missing"
+      "status":"exists"
    },
    "N83":{
       "status":"exists"
@@ -51766,7 +51774,8 @@
       "status":"exists"
    },
    "N99":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KOQN"
    },
    "NA01":{
       "status":"missing"
@@ -69956,7 +69965,8 @@
       "status":"exists"
    },
    "X47":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFIN"
    },
    "X49":{
       "status":"exists"
