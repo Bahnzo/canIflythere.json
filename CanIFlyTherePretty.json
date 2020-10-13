@@ -50256,7 +50256,8 @@
       "status":"missing"
    },
    "MP0C":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"MPGU"
    },
    "MP0D":{
       "status":"renamed",
@@ -58927,7 +58928,8 @@
       "simIcao":"SAEM"
    },
    "SA0F":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SAWL"
    },
    "SA0G":{
       "status":"renamed",
@@ -62830,7 +62832,8 @@
       "status":"missing"
    },
    "SPIM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SPJC"
    },
    "SPIN":{
       "status":"exists"
@@ -63037,7 +63040,8 @@
       "status":"exists"
    },
    "SSCC":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"SBCD"
    },
    "SSCK":{
       "status":"exists"
