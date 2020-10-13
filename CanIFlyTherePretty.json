@@ -20570,7 +20570,8 @@
       "status":"exists"
    },
    "95L":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CL33"
    },
    "95LL":{
       "status":"missing"
@@ -39895,7 +39896,8 @@
       "status":"exists"
    },
    "KFCA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KGPI"
    },
    "KFCH":{
       "status":"exists"
@@ -44296,7 +44298,8 @@
       "status":"missing"
    },
    "KYUM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNYL"
    },
    "KZ0A":{
       "status":"renamed",
@@ -58776,7 +58779,8 @@
       "status":"exists"
    },
    "S47":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KTMK"
    },
    "S48":{
       "status":"exists"
