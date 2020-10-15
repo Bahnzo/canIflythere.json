@@ -20571,7 +20571,8 @@
       "status":"exists"
    },
    "95L":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"CL33"
    },
    "95LL":{
       "status":"missing"
@@ -30005,7 +30006,8 @@
       "status":"exists"
    },
    "EK0A":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"EK23"
    },
    "EKAE":{
       "status":"exists"
@@ -34977,7 +34979,8 @@
       "simIcao":"LG02"
    },
    "H000":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"HE44"
    },
    "H04":{
       "status":"exists"
@@ -39897,7 +39900,8 @@
       "status":"exists"
    },
    "KFCA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KGPI"
    },
    "KFCH":{
       "status":"exists"
@@ -44298,7 +44302,8 @@
       "status":"missing"
    },
    "KYUM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KNYL"
    },
    "KZ0A":{
       "status":"renamed",
@@ -58778,7 +58783,8 @@
       "status":"exists"
    },
    "S47":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KTMK"
    },
    "S48":{
       "status":"exists"
@@ -69019,7 +69025,8 @@
       "status":"exists"
    },
    "WIIJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHH"
    },
    "WIIL":{
       "status":"missing"
@@ -71295,7 +71302,8 @@
       "status":"exists"
    },
    "YSCH":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"YCFS"
    },
    "YSCN":{
       "status":"exists"
@@ -71890,7 +71898,8 @@
       "status":"missing"
    },
    "Z27S":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"LYUZ"
    },
    "Z27U":{
       "status":"exists"
