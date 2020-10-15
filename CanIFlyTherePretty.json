@@ -69050,7 +69050,8 @@
       "status":"missing"
    },
    "WIKG":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIBG"
    },
    "WIKK":{
       "status":"missing"
@@ -69076,7 +69077,8 @@
       "status":"exists"
    },
    "WIMG":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIET"
    },
    "WIMM":{
       "status":"exists"
@@ -69115,16 +69117,19 @@
       "status":"exists"
    },
    "WIPR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIBJ"
    },
    "WIPU":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIGM"
    },
    "WITL":{
       "status":"exists"
    },
    "WITM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIMA"
    },
    "WITT":{
       "status":"exists"
@@ -69440,7 +69445,8 @@
       "simIcao":"WATM"
    },
    "WRLK":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAQT"
    },
    "WRLL":{
       "status":"renamed",
