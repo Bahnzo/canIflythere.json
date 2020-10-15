@@ -7325,7 +7325,8 @@
       "status":"exists"
    },
    "2V2":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KLMO"
    },
    "2V3":{
       "status":"exists"
@@ -21696,7 +21697,8 @@
       "status":"missing"
    },
    "9U4":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KDWX"
    },
    "9U5":{
       "status":"renamed",
@@ -65512,7 +65514,8 @@
       "status":"exists"
    },
    "U19":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KFOM"
    },
    "U25":{
       "status":"missing"
