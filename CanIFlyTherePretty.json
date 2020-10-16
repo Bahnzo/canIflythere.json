@@ -13844,7 +13844,8 @@
       "status":"exists"
    },
    "5NC3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"BQ1"
    },
    "5NC5":{
       "status":"exists"
@@ -14278,7 +14279,8 @@
       "status":"exists"
    },
    "5W8":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KSCR"
    },
    "5WA0":{
       "status":"exists"
@@ -16727,7 +16729,8 @@
       "status":"exists"
    },
    "73J":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KARW"
    },
    "73KS":{
       "status":"missing"
@@ -21191,7 +21194,8 @@
       "status":"missing"
    },
    "9K2":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFKK"
    },
    "9K3":{
       "status":"missing"
@@ -34568,7 +34572,8 @@
       "status":"missing"
    },
    "GBN":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KGXF"
    },
    "GBYD":{
       "status":"exists"
@@ -46813,7 +46818,8 @@
       "status":"exists"
    },
    "LKK":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAKL"
    },
    "LKKA":{
       "status":"exists"
