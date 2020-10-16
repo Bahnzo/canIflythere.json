@@ -4982,7 +4982,8 @@
       "status":"exists"
    },
    "1V9":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KAJZ"
    },
    "1VA0":{
       "status":"exists"
