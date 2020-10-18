@@ -17188,7 +17188,8 @@
       "status":"exists"
    },
    "78N":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"KSIF"
    },
    "78NC":{
       "status":"exists"
@@ -41302,7 +41303,8 @@
       "status":"exists"
    },
    "KLG":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"PALG"
    },
    "KLGA":{
       "status":"exists"
@@ -69381,7 +69383,8 @@
       "status":"missing"
    },
    "WNA":{
-      "status":"missing"
+      "status":"renamed",
+	  "simIcao":"PANA"
    },
    "WPDB":{
       "status":"exists"
