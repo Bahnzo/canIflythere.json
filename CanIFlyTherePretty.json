@@ -68676,7 +68676,8 @@
       "status":"exists"
    },
    "WASR":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAUU"
    },
    "WASS":{
       "status":"exists"
@@ -69016,7 +69017,8 @@
       "status":"exists"
    },
    "WIIA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIRR"
    },
    "WIIB":{
       "status":"renamed",
@@ -69045,30 +69047,34 @@
       "simIcao":"WIHP"
    },
    "WIIS":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHS"
    },
    "WIIT":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WILL"
    },
    "WIKB":{
       "status":"renamed",
       "simIcao":"WIDD"
    },
    "WIKD":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIKT"
    },
    "WIKG":{
       "status":"renamed",
       "simIcao":"WIBG"
    },
    "WIKK":{
-      "status":"missing"
+      "status":"exists"
    },
    "WIKL":{
       "status":"missing"
    },
    "WIKM":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIDM"
    },
    "WIKN":{
       "status":"renamed",
@@ -69101,7 +69107,8 @@
       "status":"exists"
    },
    "WION":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIDO"
    },
    "WIOO":{
       "status":"exists"
@@ -69116,7 +69123,8 @@
       "status":"missing"
    },
    "WIPL":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WIGG"
    },
    "WIPP":{
       "status":"exists"
@@ -69502,7 +69510,8 @@
       "simIcao":"WARR"
    },
    "WRSQ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"WAHQ"
    },
    "WS01":{
       "status":"missing"
