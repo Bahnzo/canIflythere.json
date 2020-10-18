@@ -35822,7 +35822,8 @@
       "simIcao":"HL74"
    },
    "HL0V":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"HLMS"
    },
    "HL0W":{
       "status":"renamed",
@@ -57858,7 +57859,8 @@
       "status":"missing"
    },
    "RJCJ":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"RJCC"
    },
    "RJCK":{
       "status":"exists"
@@ -71599,7 +71601,8 @@
       "status":"missing"
    },
    "Z08":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"NSAS"
    },
    "Z08G":{
       "status":"missing"
