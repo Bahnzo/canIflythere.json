@@ -3716,7 +3716,8 @@
       "status":"missing"
    },
    "1AK3":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAAL"
    },
    "1AK4":{
       "status":"exists"
@@ -22085,7 +22086,8 @@
       "status":"exists"
    },
    "AK23":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAAM"
    },
    "AK24":{
       "status":"exists"
@@ -22199,7 +22201,8 @@
       "status":"exists"
    },
    "AKI":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFAK"
    },
    "AKK":{
       "status":"missing"
@@ -44265,7 +44268,8 @@
       "status":"exists"
    },
    "KWT":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PFKW"
    },
    "KWVI":{
       "status":"exists"
@@ -51786,7 +51790,8 @@
       "status":"exists"
    },
    "N93":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAGL"
    },
    "N94":{
       "status":"exists"
@@ -57106,7 +57111,8 @@
       "status":"missing"
    },
    "PKA":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PAPK"
    },
    "PKMA":{
       "status":"exists"
@@ -58684,7 +58690,8 @@
       "simIcao":"RPLZ"
    },
    "RSH":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"PARS"
    },
    "S00":{
       "status":"exists"
