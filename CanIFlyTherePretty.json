@@ -57553,7 +57553,8 @@
       "simIcao":"KPRZ"
    },
    "Q35":{
-      "status":"missing"
+      "status":"renamed",
+      "simIcao":"KJTC"
    },
    "Q37":{
       "status":"renamed",
