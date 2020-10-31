@@ -56691,7 +56691,8 @@
       "status":"exists"
    },
    "PACY":{
-      "status":"missing"
+     "status":"renamed",
+     "simIcao":"0AA1"
    },
    "PACZ":{
       "status":"exists"
